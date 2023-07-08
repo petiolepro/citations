@@ -18,7 +18,7 @@ Petiole Pro is a mobile application for measuring plants with smartphone camera.
    WARNING: DO NOT EDIT THIS TABLE MANUALLY. IT IS AUTOMATICALLY GENERATED.
    HEAD OVER TO CONTRIBUTING.MD FOR MORE DETAILS ON HOW TO MAKE CHANGES PROPERLY.
 -->
-| **year** | **title** | **text / link** |
+| **year** | **title** | **text/link** |
 |:---------:|:---------:|:----------------------:|
 | 2019 | Ticona E (2019) Efecto Del Guano De Islas En El Rendimiento De Dos Cultivares De Acelga (Beta Vulgaris L. Vulgaris var. cicla) / Effect of Island Guano on the Yield of Two Chard Cultivars (Beta Vulgaris L. Vulgaris var. Cicla). Master’s Degree Thesis. National University of the Altiplano de Puno / National University of the Altiplano Puno |  [![Text](https://img.shields.io/badge/Text-F9A72F)](https://github.com/petiolepro/citations/blob/main/originals/2018_-_Isakova_Lapchenko_Trends_of_Information_Technologies_Development_in_Crop_Production.pdf) [![Link](https://img.shields.io/badge/Link-555555)](http://repositorio.unap.edu.pe/bitstream/handle/UNAP/16006/Salamanca_Ticona_Edwin.pdf?sequence=1&isAllowed=y)|
 | 2018 | Isakova SP, Lapchenko EA (2018) Trends of information technologies development in crop production / Тенденции развития информационных технологий в растениеводстве, Актуальные направления развития аграрной науки в работах молодых ученых, 16-21 |  [![Text](https://img.shields.io/badge/Text-F9A72F)](https://github.com/petiolepro/citations/blob/main/originals/2018_-_Isakova_Lapchenko_Trends_of_Information_Technologies_Development_in_Crop_Production.pdf) [![Link](https://img.shields.io/badge/Link-555555)](http://www.spsl.nsc.ru/FullText/konfe/%D0%9E%D0%BC%D1%81%D0%BA%D0%B8%D0%B9%D0%90%D0%9D%D0%A6-2018.pdf#page=16)|
