@@ -1,5 +1,5 @@
 # citations
-<h1 align="center">Academic Citations of mobile application Petiole Pro</h1>
+<h1 align="center">Academic Citations of Mobile Application Petiole Pro</h1>
 
 <p align="center">
     </br>
