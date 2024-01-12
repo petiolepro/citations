@@ -13,7 +13,7 @@ Petiole Pro is a mobile application for measuring plants with smartphone camera.
 
 Please accept our apologies but as of January 2024 **this repository includes NOT all of the research papers** but we work hard on filling this gap.
 
-However, you can find **all 86 publications in [pdf](https://github.com/petiolepro/citations/blob/7819a2896f340108aa1881295dac2144c62003e7/originals/2023_December_-_Petiole-Mobile-Applicatio_-_85_References.pdf) or [xls](https://docs.google.com/spreadsheets/d/1HMZCXTbvkISZIHlZsiujMq2K1fS6r5uvpjCvIXVk7xc/edit?usp=sharing)**. 
+However, you can find **all 86 publications in [pdf](originals/2024_December_-_Petiole-Mobile-Applicatio_-_86_References.pdf) or [xls](https://docs.google.com/spreadsheets/d/1HMZCXTbvkISZIHlZsiujMq2K1fS6r5uvpjCvIXVk7xc/edit?usp=sharing)**. 
 
 If the paper you are looking for is not on this list, let's find it togehter - please, [contact us](mailto:supprt@petioleapp.com).
 
