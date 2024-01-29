@@ -17,7 +17,7 @@ We created this repository to help you search for the relevant publications.
 
 Please accept our apologies but as of January 2024 **this repository includes NOT all of the research papers** but we work hard on filling this gap.
 
-However, you can find **all 86 publications in [pdf](originals/2024_December_-_Petiole-Mobile-Applicatio_-_86_References.pdf) or [xls](https://docs.google.com/spreadsheets/d/1HMZCXTbvkISZIHlZsiujMq2K1fS6r5uvpjCvIXVk7xc/edit?usp=sharing)**. 
+However, you can find **all 92 publications in [pdf](originals/2024_January_Petiole_Pro_Mobile_Application_-_References.pdf) or [xls](https://docs.google.com/spreadsheets/d/1HMZCXTbvkISZIHlZsiujMq2K1fS6r5uvpjCvIXVk7xc/edit?usp=sharing)**. 
 
 If the paper you are looking for is not on this list, let's find it togehter - please, [contact us](mailto:supprt@petioleapp.com).
 
